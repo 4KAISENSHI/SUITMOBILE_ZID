@@ -14,7 +14,7 @@
         android:text="Mau Lawan siapa nih?"
         android:textColor="@color/black"
         android:textFontWeight="700"
-        android:textSize="24dp"
+        android:textSize="25dp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@id/imgVsPemain"
         app:layout_constraintEnd_toEndOf="parent"
