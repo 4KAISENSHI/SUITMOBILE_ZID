@@ -1,2 +1,2 @@
-# GuntingKertaBatuMobile
+# GuntingKertasBatuMobile
 #TugasChapter4_Zulihram_Dhani
